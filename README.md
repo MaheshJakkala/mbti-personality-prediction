@@ -19,9 +19,10 @@
   2. Convert to GIF: https://ezgif.com
   3. Save as: reports/figures/demo.gif
   4. Uncomment the line below:
-
-  ![Demo](reports/figures/demo.gif)
-
+--->
+  ![Demo](reports/demo.png)
+  
+<!--
   Or add a screenshot of your confusion matrix or results table:
   ![Results](reports/figures/results.png)
 -->
