@@ -4,13 +4,12 @@ evaluate.py
 Evaluation utilities: metrics, confusion matrix, ROC-AUC plots, feature importance.
 """
 
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import (
-    accuracy_score, f1_score, matthews_corrcoef,
-    roc_auc_score, roc_curve, confusion_matrix, classification_report
+    f1_score, matthews_corrcoef,
+    roc_auc_score, roc_curve, confusion_matrix
 )
 
 
