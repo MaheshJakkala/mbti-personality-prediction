@@ -13,6 +13,8 @@ from nltk.stem.porter import PorterStemmer
 from nltk.stem.snowball import SnowballStemmer
 
 # Download required NLTK data on first use
+
+
 def _ensure_nltk_data():
     try:
         stopwords.words("english")
@@ -20,7 +22,9 @@ def _ensure_nltk_data():
         nltk.download("stopwords")
         nltk.download("wordnet")
 
+
 _ensure_nltk_data()
+
 
 URL_RE = re.compile(
     r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)"
