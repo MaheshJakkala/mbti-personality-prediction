@@ -275,6 +275,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ## Author
-**[Your Name]** | [LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com)
+**[Mahesh Jakkala]** | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mahesh-jakkala-6632b330b/)) | [Kaggle]([https://kaggle.com](https://www.kaggle.com/jakkalamahesh))
 
 > *"A model that honestly reports its own limitations is more useful — and more trustworthy — than one that inflates its scores."*
